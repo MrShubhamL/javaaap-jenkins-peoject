@@ -10,6 +10,7 @@
 </head>
 <body>
 <h1>This is java web app home page</h1>
+<h2 class="text-center">Author: Shubham Lohar</h2>
 <p>In this app we are going to deploy things manually</p>
 <a href="about.jsp">About Us</a>
 </body>
